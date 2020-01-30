@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Intermediate/CachedAssetRegistry.bin
+Saved/Logs/MyProject5.log
